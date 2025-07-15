@@ -1,8 +1,1 @@
-streamlit>=1.31
-pandas
-numpy
-matplotlib
-seaborn
-altair
-openpyxl
-watchdog
+
